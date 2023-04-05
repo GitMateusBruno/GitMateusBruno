@@ -5,9 +5,8 @@
 
 ![GitMateusBruno GitHub stats](https://github-readme-stats.vercel.app/api?username=GitMateusBruno&show_icons=true&theme=highcontrast)
 
-##
 
-## Linguagens/Frame/Lib com maior experiência 🧑🏽‍💻
+### Linguagens/Frame/Lib com maior experiência 🧑🏽‍💻
 
 <div style="display: inline_block"><br>
   <img align="center" alt="teu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,10 +15,14 @@
   <img align="center" alt="teu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="teu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="teu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="teu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
+  <img align="center" alt="teu-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
+  <img align="center" alt="teu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="teu-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"> 
+  <img align="center" alt="teu-.Net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"> 
+  <img align="center" alt="teu-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> 
 </div></br>
 
-#### ➡️ Possuo experiência nos seus respectivos frameworks e libs
+#### ➡️ **Profissional atuante na área de R&S tech**
 </br>
 
 Tech Recruiter 🚀
