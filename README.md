@@ -5,8 +5,6 @@
 
 ![GitMateusBruno GitHub stats](https://github-readme-stats.vercel.app/api?username=GitMateusBruno&show_icons=true&theme=highcontrast)
 
-[![GitMateusBruno](https://github-readme-stats.vercel.app/api/top-langs/?username=GitMateusBruno&hide_progress=true)](https://github.com/GitMateusBruno/github-readme-stats)
-
 ##
 
 ## Linguagens/Frame/Lib com maior experiência 🧑🏽‍💻
