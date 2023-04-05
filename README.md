@@ -1,18 +1,24 @@
-### <Hi there, I'm Mateus/> 🤓
+### <E aí blz? Bem vindo!/>  🤓
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itmateusbruno/)
 [![LinkedIn](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571993127798?text=Ol%C3%A1%2C+Mateus%21+Encontrei+seu+contato+no+GitHub+%3D%29)
 
 ![GitMateusBruno GitHub stats](https://github-readme-stats.vercel.app/api?username=GitMateusBruno&show_icons=true&theme=highcontrast)
 
-## Linguagens com maior experiência 🧑🏽‍💻
-<div style="display: inline_block"><br/>
-  <img align=center alt="JavaScrit" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align=center alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img align=center alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align=center alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img align=center alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align=center alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> 
+[![GitMateusBruno](https://github-readme-stats.vercel.app/api/top-langs/?username=GitMateusBruno&hide_progress=true)](https://github.com/GitMateusBruno/github-readme-stats)
+
+##
+
+## Linguagens/Frame/Lib com maior experiência 🧑🏽‍💻
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="teu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="teu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="teu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="teu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="teu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="teu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="teu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
 </div></br>
 
 #### ➡️ Possuo experiência nos seus respectivos frameworks e libs
