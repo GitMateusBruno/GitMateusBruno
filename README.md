@@ -22,7 +22,7 @@
   <img align="center" alt="teu-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> 
 </div></br>
 
-#### ➡️ **Profissional atuante na área de R&S tech**
+#### ➡️ **Profissional atuante na área de R&S Tech & Scrum Master**
 </br>
 
-Tech Recruiter 🚀
+Tech Recruiter & Scrum Master 🚀
